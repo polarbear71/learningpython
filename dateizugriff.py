@@ -11,7 +11,7 @@ with open("löschtest.txt", "w") as f:
 
 os.remove("löschtest.txt")
 
-print("Jetzt ist Schluss!")
+print("Script is done!")
 
 
 
