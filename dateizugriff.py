@@ -9,7 +9,7 @@ with open("löschtest.txt", "w") as f:
     f.writelines("line 1")
     f.writelines("line 2")
 
-os.remove("löschtest.txt")
+#os.remove("löschtest.txt")
 
 print("Script is done!")
 
